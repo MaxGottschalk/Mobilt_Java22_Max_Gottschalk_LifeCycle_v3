@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">miniprojekt2</string>
+    <string name="registrera">Registrera</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="bellingham">Bellingham</string>
+    <string name="du_r_nu_inloggad">Du är nu inloggad</string>
+    <string name="har_k_rkort">Har Körkort</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="open_the_camera">Open the camera</string>
+    <string name="create_user">Create User</string>
+    <string name="you_are_logged_in">You are logged in</string>
+    <string name="logout">logOut</string>
+    <string name="update_info">Update Info</string>
+    <string name="go_back">Go back</string>
+    <string name="my_info">My Info</string>
+    <string name="submit">Submit</string>
+</resources>
